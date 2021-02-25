@@ -68,7 +68,9 @@ Once your dev run has completed, you have successfully deployed your applicaiton
 1. Once the tests pass, Heroku will deploy your "main" branch to your "production" app!
 1. When that process completes, open your app in the browser to prove it.
 
-## Resources
+## Resources and Documentation
 
 1. I used this demo constructed by my instructor during class to complete this assignment
   1. [Class Demo](https://github.com/codefellows/seattle-javascript-401n18/tree/main/class-01b/demo/server)
+1. Below is a UML of my application (created at [https://app.diagrams.net/](https://app.diagrams.net/))
+  1. ![Diagram](assets/images/lab01-diagram.png)
