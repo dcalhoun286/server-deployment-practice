@@ -3,7 +3,7 @@
 ## Links
 
 - [Pull request #1](https://github.com/dcalhoun286/server-deployment-practice/pull/1)
-- [Pull request #2]()
+- [Pull request #2](https://github.com/dcalhoun286/server-deployment-practice/pull/2)
 - [Deployed site](https://dc-server-deploy-prod.herokuapp.com/)
 - [GitHub Actions](https://github.com/dcalhoun286/server-deployment-practice/actions)
 
