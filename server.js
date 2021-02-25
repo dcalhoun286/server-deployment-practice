@@ -8,6 +8,7 @@ const errorHandler = require('./handlers/500.js');
 const stamper = require('./middleware/stamper.js');
 
 app.get('/', stamper, (req, res) => {
+  
   res.status(200).send('Hello World')
 })
 
@@ -15,7 +16,7 @@ app.get('/data', stamper, (req, res) => {
   let outputObject = {
     10: "even",
     5: "odd",
-    "time": req.timestamp // we got this from the middleware
+    "time": req.timestamp // from stamper middleware
   }
 
   res.status(200).json(outputObject);
