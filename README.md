@@ -34,6 +34,7 @@
 ### The Code
 
 1. Initialize your app: `npm init -y`
+1. Run `npm install`
 1. Install your dpeendencies: `npm i dotenv express jest supertest`
 1. Create the files and folders required for the application
 1. Create the correct content in the files
